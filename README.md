@@ -1,4 +1,4 @@
-#  Dual-Transformer Feature Enhancement for Infrared Small-Dim Target Detection
+#  DCE-Net: A Differential Contrast-Enhanced Network for Infrared Small Target Detection
 
 This is the code for "DCE-Net: A Differential Contrast-Enhanced Network for Infrared Small Target Detection"
 
